@@ -1,0 +1,19 @@
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\bin\Debug\StrFunction.exe.config
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\obj\Debug\StrFunction.csprojResolveAssemblyReference.cache
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\obj\Debug\StrFunction.Form1.resources
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\obj\Debug\StrFunction.Properties.Resources.resources
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\obj\Debug\StrFunction.csproj.GenerateResource.Cache
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\bin\Debug\StrFunction.exe
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\bin\Debug\StrFunction.pdb
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\obj\Debug\StrFunction.exe
+C:\Users\HKU\Documents\Visual Studio 2017\Websites\StrFunction\StrFunction\obj\Debug\StrFunction.pdb
+D:\ObjectOriented\StrFunction\StrFunction\bin\Debug\StrFunction.exe.config
+D:\ObjectOriented\StrFunction\StrFunction\bin\Debug\StrFunction.exe
+D:\ObjectOriented\StrFunction\StrFunction\bin\Debug\StrFunction.pdb
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.csproj.AssemblyReference.cache
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.Form1.resources
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.Properties.Resources.resources
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.csproj.GenerateResource.cache
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.csproj.CoreCompileInputs.cache
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.exe
+D:\ObjectOriented\StrFunction\StrFunction\obj\Debug\StrFunction.pdb
